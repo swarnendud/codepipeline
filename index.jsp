@@ -148,7 +148,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   <div class="wrapper">
       <div class="textColumn">
         <h1>Congratulations change is here for codepipeline for deploy add new server with AWS</h1>
-        <p>Your first AWS Elastic Beanstalk Application is now running on your own dedicated environment in the AWS Cloud by pipeline</p>
+        <p>My first AWS Elastic Beanstalk Application is now running on your own dedicated environment in the AWS Cloud by pipeline</p>
       </div>
 
       <div class="linksColumn">
